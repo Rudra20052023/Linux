@@ -1,6 +1,1 @@
-NAME : Prashant Adalinge
-For Push
-
-
-Second time push
-Second time pull
+DailyStatus
