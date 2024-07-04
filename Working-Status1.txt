@@ -1,0 +1,25 @@
+
+Date: 1 July 2024
+ABLE Application:
+Regression on the add-course module.
+School Application:
+start regression on the user management module.
+FRS Application:
+Discussed with the dev team regarding the dashboard module.
+
+DATE: 2 July 2024
+School Application:
+Testing on the Add student,Confirm Student and add user module.
+FRS Application.
+Testing on the Dashboard module, Loading issue discussed with khushboo.
+call with yogesh sir regarding 'open to all' course functionality.
+
+DATE: 3 July 2024
+School Application :
+Retest 'To Be Tested' issues.
+ABLE Application :
+Retest quiz module
+Requirements meeting with team and discussed all points.
+FRS Application :
+Dashbord issue discussed with yash sir.
+
