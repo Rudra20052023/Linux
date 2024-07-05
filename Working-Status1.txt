@@ -26,4 +26,8 @@ Dashbord issue discussed with yash sir.
 
 Date: 4 July 2024
 FRS Application :
-
+Regression on the FRS offline application.
+School Application |:
+Regression on the school offline application.
+Common registration :
+Try to sink all divices.
