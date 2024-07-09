@@ -31,3 +31,37 @@ School Application |:
 Regression on the school offline application.
 Common registration :
 Try to sink all divices.
+
+
+DATE: 5 July 2024
+FRS Application :
+Help for setup 
+Regression on the all module.
+School Application:
+Regression on the all module.
+Common regitration:
+Test and discussed issues.
+
+
+DATE: 6 Jule 2024
+Help on call for add data and other points.
+
+DATE: 7 July 2024
+FRS Application :
+Setup and test all modules.
+DATA entry.
+School Application:
+Dsbash: a: command not found
+Data entry and setup.
+Regression on the all modules.
+Common Registration :
+Setup and test .
+Trvelled to school for keep the CPU.
+
+Date 8 July 2024
+POC:
+Setup.
+Data Entry.
+Common Registration.
+FRS Testing.
+Demo given to Teacher.
