@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 
-Date: 1 July 2024
+Date  : 1 July 2024
 ABLE Application:
 Regression on the add-course module.
 School Application:
@@ -74,3 +75,6 @@ preapred plan to upload old courses into new portal.
 School Application :
 Regression on the user management module.
 Retest TO BE TESTED issues.
+=======
+4julyDailyStatus
+>>>>>>> 2f66cc8b2924a9754c285aa7819ae1bb6d7565fc
