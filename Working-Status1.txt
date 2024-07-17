@@ -1,1 +1,80 @@
+<<<<<<< HEAD
+
+Date  : 1 July 2024
+ABLE Application:
+Regression on the add-course module.
+School Application:
+start regression on the user management module.
+FRS Application:
+Discussed with the dev team regarding the dashboard module.
+
+DATE: 2 July 2024
+School Application:
+Testing on the Add student,Confirm Student and add user module.
+FRS Application.
+Testing on the Dashboard module, Loading issue discussed with khushboo.
+call with yogesh sir regarding 'open to all' course functionality.
+
+DATE: 3 July 2024
+School Application :
+Retest 'To Be Tested' issues.
+ABLE Application :
+Retest quiz module
+Requirements meeting with team and discussed all points.
+FRS Application :
+Dashbord issue discussed with yash sir.
+
+
+Date: 4 July 2024
+FRS Application :
+Regression on the FRS offline application.
+School Application |:
+Regression on the school offline application.
+Common registration :
+Try to sink all divices.
+
+
+DATE: 5 July 2024
+FRS Application :
+Help for setup 
+Regression on the all module.
+School Application:
+Regression on the all module.
+Common regitration:
+Test and discussed issues.
+
+
+DATE: 6 Jule 2024
+Help on call for add data and other points.
+
+DATE: 7 July 2024
+FRS Application :
+Setup and test all modules.
+DATA entry.
+School Application:
+Dsbash: a: command not found
+Data entry and setup.
+Regression on the all modules.
+Common Registration :
+Setup and test .
+Trvelled to school for keep the CPU.
+
+Date 8 July 2024
+POC:
+Setup.
+Data Entry.
+Common Registration.
+FRS Testing.
+Demo given to Teacher.
+
+
+Date 09 July 2024
+ABLE Application:
+Meeting with vyom sir for add new course.
+preapred plan to upload old courses into new portal.
+School Application :
+Regression on the user management module.
+Retest TO BE TESTED issues.
+=======
 4julyDailyStatus
+>>>>>>> 2f66cc8b2924a9754c285aa7819ae1bb6d7565fc
