@@ -69,7 +69,7 @@ Demo given to Teacher.
 
 Date 09 July 2024
 ABLE Application:
-Meeting with vyom sir for ad new course.
+Meeting with vyom sir for add new course.
 preapred plan to upload old courses into new portal.
 School Application :
 Regression on the user management module.
